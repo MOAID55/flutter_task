@@ -6,9 +6,18 @@ Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+
+
+<img width="400" height="837" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/139137b4-2250-443f-8fd5-1ff556cd3ba3" /> ![original design](https://github.com/user-attachments/assets/b6ed11fa-e0d2-4436-be48-6f9bc9b58c42)             
+
+
+
+
+
+
+
+
 
 --- least two distinct occasions where you issue clear prompts to ProxyAI----
 
