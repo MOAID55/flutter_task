@@ -9,7 +9,7 @@ This project is a starting point for a Flutter application.
 
 
 
-<img width="400" height="837" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/139137b4-2250-443f-8fd5-1ff556cd3ba3" /> ![original design](https://github.com/user-attachments/assets/b6ed11fa-e0d2-4436-be48-6f9bc9b58c42)             
+<img width="400" height="837" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/139137b4-2250-443f-8fd5-1ff556cd3ba3" />                                    ![original design](https://github.com/user-attachments/assets/b6ed11fa-e0d2-4436-be48-6f9bc9b58c42)             
 
 
 
